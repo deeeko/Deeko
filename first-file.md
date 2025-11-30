@@ -13,6 +13,7 @@ def codeblock_example():
 
 *italic* _italic_
 **bold** __bold__
-\_literal uderscore
+\_literal underscore
 git clone [https://github.com/deeeko/Deeko/blob/main/README.md]
+
 
